@@ -1,0 +1,49 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 23px;
+    color:black;
+    font-family: comic;
+  }
+  .heading_div
+  {
+    background: #bf79f7 ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey ;
+    float: none;
+    padding: 10px;
+    font-family: Comic;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+    font-family: Comic;    
+    color: #75b3ff;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    color: black;
+  }
+  .result_para_tag_span
+  {
+    white-space: pre-line;
+  }
+  .copy_right_footer{
+    position:fixed;
+    color:black;
+    font-family: Comic(Bold);
+    border:inset;
+    border-color: black;
+  }
+  canvas
+  {
+    border:5px outset black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 160px;
+  }
